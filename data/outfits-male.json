@@ -1,0 +1,181 @@
+{
+  "college": [
+    {
+      "name": "Campus Casual 1",
+      "items": [
+        { "category": "tops", "file": "top1.jpg" },
+        { "category": "bottoms", "file": "bottom1.jpg" },
+        { "category": "footwear", "file": "shoe1.jpg" },
+        { "category": "accessories", "file": "watch1.jpg" }
+      ]
+    },
+    {
+      "name": "Campus Casual 2",
+      "items": [
+        { "category": "tops", "file": "top2.jpg" },
+        { "category": "bottoms", "file": "bottom2.jpg" },
+        { "category": "footwear", "file": "shoe2.jpg" },
+        { "category": "accessories", "file": "watch2.jpg" }
+      ]
+    },
+    {
+      "name": "Campus Casual 3",
+      "items": [
+        { "category": "tops", "file": "top3.jpg" },
+        { "category": "bottoms", "file": "bottom3.jpg" },
+        { "category": "footwear", "file": "shoe3.jpg" },
+        { "category": "accessories", "file": "watch3.jpg" }
+      ]
+    },
+    {
+      "name": "Campus Casual 4",
+      "items": [
+        { "category": "tops", "file": "top4.jpg" },
+        { "category": "bottoms", "file": "bottom4.jpg" },
+        { "category": "footwear", "file": "shoe4.jpg" },
+        { "category": "accessories", "file": "watch4.jpg" }
+      ]
+    },
+    {
+      "name": "Campus Casual 5",
+      "items": [
+        { "category": "tops", "file": "top5.jpg" },
+        { "category": "bottoms", "file": "bottom5.jpg" },
+        { "category": "footwear", "file": "shoe5.jpg" },
+        { "category": "accessories", "file": "watch5.jpg" }
+      ]
+    }
+  ],
+
+  "gym": [
+    { "name": "Gym Fit 1", "items": [
+      { "category": "tops", "file": "top1.jpg" },
+      { "category": "bottoms", "file": "bottom1.jpg" },
+      { "category": "footwear", "file": "shoe1.jpg" },
+      { "category": "accessories", "file": "watch1.jpg" }
+    ]},
+    { "name": "Gym Fit 2", "items": [
+      { "category": "tops", "file": "top2.jpg" },
+      { "category": "bottoms", "file": "bottom2.jpg" },
+      { "category": "footwear", "file": "shoe2.jpg" },
+      { "category": "accessories", "file": "watch2.jpg" }
+    ]},
+    { "name": "Gym Fit 3", "items": [
+      { "category": "tops", "file": "top3.jpg" },
+      { "category": "bottoms", "file": "bottom3.jpg" },
+      { "category": "footwear", "file": "shoe3.jpg" },
+      { "category": "accessories", "file": "watch3.jpg" }
+    ]},
+    { "name": "Gym Fit 4", "items": [
+      { "category": "tops", "file": "top4.jpg" },
+      { "category": "bottoms", "file": "bottom4.jpg" },
+      { "category": "footwear", "file": "shoe4.jpg" },
+      { "category": "accessories", "file": "watch4.jpg" }
+    ]},
+    { "name": "Gym Fit 5", "items": [
+      { "category": "tops", "file": "top5.jpg" },
+      { "category": "bottoms", "file": "bottom5.jpg" },
+      { "category": "footwear", "file": "shoe5.jpg" },
+      { "category": "accessories", "file": "watch5.jpg" }
+    ]}
+  ],
+
+  "interview": [
+    { "name": "Formal Look 1", "items": [
+      { "category": "tops", "file": "top1.jpg" },
+      { "category": "bottoms", "file": "bottom1.jpg" },
+      { "category": "footwear", "file": "shoe1.jpg" },
+      { "category": "accessories", "file": "watch1.jpg" }
+    ]},
+    { "name": "Formal Look 2", "items": [
+      { "category": "tops", "file": "top2.jpg" },
+      { "category": "bottoms", "file": "bottom2.jpg" },
+      { "category": "footwear", "file": "shoe2.jpg" },
+      { "category": "accessories", "file": "watch2.jpg" }
+    ]},
+    { "name": "Formal Look 3", "items": [
+      { "category": "tops", "file": "top3.jpg" },
+      { "category": "bottoms", "file": "bottom3.jpg" },
+      { "category": "footwear", "file": "shoe3.jpg" },
+      { "category": "accessories", "file": "watch3.jpg" }
+    ]},
+    { "name": "Formal Look 4", "items": [
+      { "category": "tops", "file": "top4.jpg" },
+      { "category": "bottoms", "file": "bottom4.jpg" },
+      { "category": "footwear", "file": "shoe4.jpg" },
+      { "category": "accessories", "file": "watch4.jpg" }
+    ]},
+    { "name": "Formal Look 5", "items": [
+      { "category": "tops", "file": "top5.jpg" },
+      { "category": "bottoms", "file": "bottom5.jpg" },
+      { "category": "footwear", "file": "shoe5.jpg" },
+      { "category": "accessories", "file": "watch5.jpg" }
+    ]}
+  ],
+
+  "party": [
+    { "name": "Party Style 1", "items": [
+      { "category": "tops", "file": "top1.jpg" },
+      { "category": "bottoms", "file": "bottom1.jpg" },
+      { "category": "footwear", "file": "shoe1.jpg" },
+      { "category": "accessories", "file": "watch1.jpg" }
+    ]},
+    { "name": "Party Style 2", "items": [
+      { "category": "tops", "file": "top2.jpg" },
+      { "category": "bottoms", "file": "bottom2.jpg" },
+      { "category": "footwear", "file": "shoe2.jpg" },
+      { "category": "accessories", "file": "watch2.jpg" }
+    ]},
+    { "name": "Party Style 3", "items": [
+      { "category": "tops", "file": "top3.jpg" },
+      { "category": "bottoms", "file": "bottom3.jpg" },
+      { "category": "footwear", "file": "shoe3.jpg" },
+      { "category": "accessories", "file": "watch3.jpg" }
+    ]},
+    { "name": "Party Style 4", "items": [
+      { "category": "tops", "file": "top4.jpg" },
+      { "category": "bottoms", "file": "bottom4.jpg" },
+      { "category": "footwear", "file": "shoe4.jpg" },
+      { "category": "accessories", "file": "watch4.jpg" }
+    ]},
+    { "name": "Party Style 5", "items": [
+      { "category": "tops", "file": "top5.jpg" },
+      { "category": "bottoms", "file": "bottom5.jpg" },
+      { "category": "footwear", "file": "shoe5.jpg" },
+      { "category": "accessories", "file": "watch5.jpg" }
+    ]}
+  ],
+
+  "traditional": [
+    { "name": "Ethnic Wear 1", "items": [
+      { "category": "tops", "file": "top1.jpg" },
+      { "category": "bottoms", "file": "bottom1.jpg" },
+      { "category": "footwear", "file": "shoe1.jpg" },
+      { "category": "accessories", "file": "watch1.jpg" }
+    ]},
+    { "name": "Ethnic Wear 2", "items": [
+      { "category": "tops", "file": "top2.jpg" },
+      { "category": "bottoms", "file": "bottom2.jpg" },
+      { "category": "footwear", "file": "shoe2.jpg" },
+      { "category": "accessories", "file": "watch2.jpg" }
+    ]},
+    { "name": "Ethnic Wear 3", "items": [
+      { "category": "tops", "file": "top3.jpg" },
+      { "category": "bottoms", "file": "bottom3.jpg" },
+      { "category": "footwear", "file": "shoe3.jpg" },
+      { "category": "accessories", "file": "watch3.jpg" }
+    ]},
+    { "name": "Ethnic Wear 4", "items": [
+      { "category": "tops", "file": "top4.jpg" },
+      { "category": "bottoms", "file": "bottom4.jpg" },
+      { "category": "footwear", "file": "shoe4.jpg" },
+      { "category": "accessories", "file": "watch4.jpg" }
+    ]},
+    { "name": "Ethnic Wear 5", "items": [
+      { "category": "tops", "file": "top5.jpg" },
+      { "category": "bottoms", "file": "bottom5.jpg" },
+      { "category": "footwear", "file": "shoe5.jpg" },
+      { "category": "accessories", "file": "watch5.jpg" }
+    ]}
+  ]
+}

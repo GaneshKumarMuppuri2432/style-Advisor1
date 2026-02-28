@@ -1,0 +1,141 @@
+{
+  "college": [
+    { "name": "Campus Dress 1", "items": [
+      { "category": "clothes", "file": "dress1.jpg" },
+      { "category": "footwear", "file": "shoe1.jpg" },
+      { "category": "accessories", "file": "bag1.jpg" }
+    ]},
+    { "name": "Campus Dress 2", "items": [
+      { "category": "clothes", "file": "dress2.jpg" },
+      { "category": "footwear", "file": "shoe2.jpg" },
+      { "category": "accessories", "file": "bag2.jpg" }
+    ]},
+    { "name": "Campus Dress 3", "items": [
+      { "category": "clothes", "file": "dress3.jpg" },
+      { "category": "footwear", "file": "shoe3.jpg" },
+      { "category": "accessories", "file": "bag3.jpg" }
+    ]},
+    { "name": "Campus Dress 4", "items": [
+      { "category": "clothes", "file": "dress4.jpg" },
+      { "category": "footwear", "file": "shoe4.jpg" },
+      { "category": "accessories", "file": "bag4.jpg" }
+    ]},
+    { "name": "Campus Dress 5", "items": [
+      { "category": "clothes", "file": "dress5.jpg" },
+      { "category": "footwear", "file": "shoe5.jpg" },
+      { "category": "accessories", "file": "bag5.jpg" }
+    ]}
+  ],
+
+  "gym": [
+    { "name": "Gym Fit 1", "items": [
+      { "category": "clothes", "file": "dress1.jpg" },
+      { "category": "footwear", "file": "shoe1.jpg" },
+      { "category": "accessories", "file": "bag1.jpg" }
+    ]},
+    { "name": "Gym Fit 2", "items": [
+      { "category": "clothes", "file": "dress2.jpg" },
+      { "category": "footwear", "file": "shoe2.jpg" },
+      { "category": "accessories", "file": "bag2.jpg" }
+    ]},
+    { "name": "Gym Fit 3", "items": [
+      { "category": "clothes", "file": "dress3.jpg" },
+      { "category": "footwear", "file": "shoe3.jpg" },
+      { "category": "accessories", "file": "bag3.jpg" }
+    ]},
+    { "name": "Gym Fit 4", "items": [
+      { "category": "clothes", "file": "dress4.jpg" },
+      { "category": "footwear", "file": "shoe4.jpg" },
+      { "category": "accessories", "file": "bag4.jpg" }
+    ]},
+    { "name": "Gym Fit 5", "items": [
+      { "category": "clothes", "file": "dress5.jpg" },
+      { "category": "footwear", "file": "shoe5.jpg" },
+      { "category": "accessories", "file": "bag5.jpg" }
+    ]}
+  ],
+
+  "interview": [
+    { "name": "Formal Dress 1", "items": [
+      { "category": "clothes", "file": "dress1.jpg" },
+      { "category": "footwear", "file": "shoe1.jpg" },
+      { "category": "accessories", "file": "bag1.jpg" }
+    ]},
+    { "name": "Formal Dress 2", "items": [
+      { "category": "clothes", "file": "dress2.jpg" },
+      { "category": "footwear", "file": "shoe2.jpg" },
+      { "category": "accessories", "file": "bag2.jpg" }
+    ]},
+    { "name": "Formal Dress 3", "items": [
+      { "category": "clothes", "file": "dress3.jpg" },
+      { "category": "footwear", "file": "shoe3.jpg" },
+      { "category": "accessories", "file": "bag3.jpg" }
+    ]},
+    { "name": "Formal Dress 4", "items": [
+      { "category": "clothes", "file": "dress4.jpg" },
+      { "category": "footwear", "file": "shoe4.jpg" },
+      { "category": "accessories", "file": "bag4.jpg" }
+    ]},
+    { "name": "Formal Dress 5", "items": [
+      { "category": "clothes", "file": "dress5.jpg" },
+      { "category": "footwear", "file": "shoe5.jpg" },
+      { "category": "accessories", "file": "bag5.jpg" }
+    ]}
+  ],
+
+  "party": [
+    { "name": "Party Dress 1", "items": [
+      { "category": "clothes", "file": "dress1.jpg" },
+      { "category": "footwear", "file": "shoe1.jpg" },
+      { "category": "accessories", "file": "bag1.jpg" }
+    ]},
+    { "name": "Party Dress 2", "items": [
+      { "category": "clothes", "file": "dress2.jpg" },
+      { "category": "footwear", "file": "shoe2.jpg" },
+      { "category": "accessories", "file": "bag2.jpg" }
+    ]},
+    { "name": "Party Dress 3", "items": [
+      { "category": "clothes", "file": "dress3.jpg" },
+      { "category": "footwear", "file": "shoe3.jpg" },
+      { "category": "accessories", "file": "bag3.jpg" }
+    ]},
+    { "name": "Party Dress 4", "items": [
+      { "category": "clothes", "file": "dress4.jpg" },
+      { "category": "footwear", "file": "shoe4.jpg" },
+      { "category": "accessories", "file": "bag4.jpg" }
+    ]},
+    { "name": "Party Dress 5", "items": [
+      { "category": "clothes", "file": "dress5.jpg" },
+      { "category": "footwear", "file": "shoe5.jpg" },
+      { "category": "accessories", "file": "bag5.jpg" }
+    ]}
+  ],
+
+  "traditional": [
+    { "name": "Traditional Dress 1", "items": [
+      { "category": "clothes", "file": "dress1.jpg" },
+      { "category": "footwear", "file": "shoe1.jpg" },
+      { "category": "accessories", "file": "bag1.jpg" }
+    ]},
+    { "name": "Traditional Dress 2", "items": [
+      { "category": "clothes", "file": "dress2.jpg" },
+      { "category": "footwear", "file": "shoe2.jpg" },
+      { "category": "accessories", "file": "bag2.jpg" }
+    ]},
+    { "name": "Traditional Dress 3", "items": [
+      { "category": "clothes", "file": "dress3.jpg" },
+      { "category": "footwear", "file": "shoe3.jpg" },
+      { "category": "accessories", "file": "bag3.jpg" }
+    ]},
+    { "name": "Traditional Dress 4", "items": [
+      { "category": "clothes", "file": "dress4.jpg" },
+      { "category": "footwear", "file": "shoe4.jpg" },
+      { "category": "accessories", "file": "bag4.jpg" }
+    ]},
+    { "name": "Traditional Dress 5", "items": [
+      { "category": "clothes", "file": "dress5.jpg" },
+      { "category": "footwear", "file": "shoe5.jpg" },
+      { "category": "accessories", "file": "bag5.jpg" }
+    ]}
+  ]
+}
